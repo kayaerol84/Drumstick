@@ -1,0 +1,66 @@
+#header {
+	background-color: #00BFFF;
+	color: white;
+	text-align: center;
+	font-family: 'DINCondBold', Arial, sans-serif;
+	padding: 2px;
+}
+
+#nav {
+	background-color: #81DAF5;
+	height: 700px;
+	width: 100px;
+	float: left;
+	font-family: 'DINCondBold', Arial, sans-serif;
+	color: white;
+	padding: 5px;
+}
+
+#section1 {
+	background-color: #CEECF5;
+	height: 700px;
+	padding: 5px;
+}
+
+#section2 {
+	float: left;
+	padding: 5px;
+	padding-left: 50px;
+}
+
+#section3 {
+	float: right;
+	padding: 5px;
+	padding-right: 50px;
+}
+
+#text1 {
+	font-family: 'DINCondBold', Arial, sans-serif;
+	color: #21610B;
+}
+
+#text2 {
+	font-family: ArialNarrow;
+}
+
+#num1 {
+	font-family: 'DINCondBold', Arial, sans-serif;
+	color: #FF00BF;
+}
+
+#commentBox {
+    display: none;
+}
+
+#commentBox2 {
+    display: none;
+}
+
+#commentBox3 {
+    display: none;
+}
+
+#commentBox4 {
+    display: none;
+}
+
